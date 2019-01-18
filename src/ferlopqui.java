@@ -9,7 +9,7 @@ import java.util.Scanner;
 * 
 */
 
-public class juego {
+public class ferlopqui {
 
 	/* Nombre: 		boolean validarPalabra (String[] palabras,String palabra)
 	 * Entradas:	String[] palabras 	->	Recibe un array que contiene las palabras introducidas. 
